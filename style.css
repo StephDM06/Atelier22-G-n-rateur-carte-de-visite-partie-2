@@ -17,6 +17,8 @@
   margin-top: 20px;
   background-color: rgb(61, 115, 231);
   color: azure;
+  width: 450px;
+  height: 280px;
 }
 .fontRouge {
   padding-top: 55px;
@@ -24,6 +26,26 @@
   background-color: rgb(230, 22, 22);
   color: azure;
   box-shadow: 5px 4px 5px 4px rgb(65, 46, 109);
+  width: 450px;
+  height: 280px;
+}
+.fontVert {
+  padding-top: 55px;
+  margin-top: 20px;
+  background-color: rgb(72, 223, 79);
+  color: azure;
+  box-shadow: 5px 4px 5px 4px rgb(216, 65, 191);
+  width: 450px;
+  height: 280px;
+}
+.fontImg {
+  padding-top: 55px;
+  margin-top: 20px;
+  background-image: url("img/particules.jpg");
+  color: azure;
+  box-shadow: 5px 4px 5px 4px rgb(243, 121, 21);
+  width: 450px;
+  height: 280px;
 }
 #bigSize {
   font-size: 2rem;

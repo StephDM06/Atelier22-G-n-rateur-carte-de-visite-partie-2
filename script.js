@@ -59,6 +59,9 @@ const Component = {
         <div class="fond">
           <button @click="classFont='fontRouge'">Fond rouge</button>
           <button @click="classFont='fontBleu'">Fond bleu</button>
+          <button @click="classFont='fontVert'">Fond vert</button>
+          <button @click="classFont='fontImg'">Fond Artistique</button>
+          <button @click="classFont='carte'">Retour</button>
         </div>
       </div>   
     <div class="modif">
