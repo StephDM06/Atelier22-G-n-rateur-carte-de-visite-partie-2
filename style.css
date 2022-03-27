@@ -1,0 +1,82 @@
+.carte {
+  display: block;
+  width: 450px;
+  height: 280px;
+  box-shadow: 5px 4px 5px 4px brown;
+  border-color: black;
+  border-radius: 10px;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 3%;
+  margin-top: 2%;
+  padding-top: 2%;
+  background-color: white;
+}
+.fontBleu {
+  padding-top: 55px;
+  margin-top: 20px;
+  background-color: rgb(61, 115, 231);
+  color: azure;
+}
+.fontRouge {
+  padding-top: 55px;
+  margin-top: 20px;
+  background-color: rgb(230, 22, 22);
+  color: azure;
+  box-shadow: 5px 4px 5px 4px rgb(65, 46, 109);
+}
+#bigSize {
+  font-size: 2rem;
+}
+#smallSize {
+  font-size: 1rem;
+}
+.modif {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  align-items: center;
+  height: 280px;
+  box-shadow: 5px 4px 5px 4px brown;
+  border-color: black;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 3%;
+  margin-top: 3%;
+  padding-top: 2%;
+  background-color: white;
+}
+#content {
+  text-align: left;
+}
+.fond {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+}
+.bascarte {
+  display: flex;
+  justify-content: space-around;
+}
+.fond button {
+  width: 150px;
+  height: 40px;
+}
+#essai {
+  display: flex;
+  justify-content: center;
+}
+#sectionfont {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+#affichage {
+  background-image: url("img/fond\ carte.jpg");
+  margin-top: -2%;
+}
+#title {
+  padding-top: 2%;
+  text-align: center;
+}
